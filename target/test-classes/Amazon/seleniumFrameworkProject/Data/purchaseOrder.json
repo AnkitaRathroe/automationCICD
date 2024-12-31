@@ -1,0 +1,15 @@
+[
+{ 
+	"email" : "a10@gmail.com",
+	"password" : "Pass@1234",
+	"productName" : "QWERTY" 
+
+
+},
+{
+	"email" : "a110@gmail.com",
+	"password" : "Pass@1234",
+	"productName" :"ADIDAS ORIGINAL"
+
+}
+]
